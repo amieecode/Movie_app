@@ -1,8 +1,20 @@
-# React + Vite
+# Movie Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Movie site built with React Vite. It features a landing page with information about Movie streaming site.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Landing page with information about the VR
+- Download from Android and ios
+- White and black background features
+- Youtube iframe integration 
+
+
+## Technologies Used
+
+- React
+- Vite
+- HTML
+- CSS (with Tailwind CSS for styling)
+- JavaScript
+- AOS (Animate on scroll)
